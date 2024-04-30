@@ -1,0 +1,14 @@
+F:\Software\Design Patterns\Creational\Singleton\bin\Debug\net8.0\Singleton.exe
+F:\Software\Design Patterns\Creational\Singleton\bin\Debug\net8.0\Singleton.deps.json
+F:\Software\Design Patterns\Creational\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+F:\Software\Design Patterns\Creational\Singleton\bin\Debug\net8.0\Singleton.dll
+F:\Software\Design Patterns\Creational\Singleton\bin\Debug\net8.0\Singleton.pdb
+F:\Software\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+F:\Software\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+F:\Software\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+F:\Software\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.dll
+F:\Software\Design Patterns\Creational\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+F:\Software\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.pdb
+F:\Software\Design Patterns\Creational\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+F:\Software\Design Patterns\Creational\Singleton\obj\Debug\net8.0\ref\Singleton.dll
