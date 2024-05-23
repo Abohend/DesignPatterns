@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Software\\Design Patterns\\Creational\\Factory\\Factory.csproj",
+      "projectUniqueName": "F:\\Software\\DesignPatterns\\Creational\\Factory\\Factory.csproj",
       "projectName": "Factory",
-      "projectPath": "F:\\Software\\Design Patterns\\Creational\\Factory\\Factory.csproj",
+      "projectPath": "F:\\Software\\DesignPatterns\\Creational\\Factory\\Factory.csproj",
       "packagesPath": "C:\\Users\\abohe\\.nuget\\packages\\",
-      "outputPath": "F:\\Software\\Design Patterns\\Creational\\Factory\\obj\\",
+      "outputPath": "F:\\Software\\DesignPatterns\\Creational\\Factory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abohe\\AppData\\Roaming\\NuGet\\NuGet.Config",

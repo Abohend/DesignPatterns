@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Software\\Design Patterns\\Creational\\Singleton\\Singleton.csproj",
+      "projectUniqueName": "F:\\Software\\DesignPatterns\\Creational\\Singleton\\Singleton.csproj",
       "projectName": "Singleton",
-      "projectPath": "F:\\Software\\Design Patterns\\Creational\\Singleton\\Singleton.csproj",
+      "projectPath": "F:\\Software\\DesignPatterns\\Creational\\Singleton\\Singleton.csproj",
       "packagesPath": "C:\\Users\\abohe\\.nuget\\packages\\",
-      "outputPath": "F:\\Software\\Design Patterns\\Creational\\Singleton\\obj\\",
+      "outputPath": "F:\\Software\\DesignPatterns\\Creational\\Singleton\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abohe\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,41 +10,41 @@
 		static void Main(string[] args)
 		{
 			#region Simple Factory Idom
-			//var resturant = new SimpleFactoryIdom.Resturant();
-			//var beefBurger = resturant.OrderBurger("beef");
-			//if (beefBurger != null)
-			//{
+			// var resturant = new SimpleFactoryIdom.Resturant();
+			// var beefBurger = resturant.OrderBurger("beef");
+			// if (beefBurger != null)
+			// {
 			//             Console.WriteLine("I got the beef burger");
 			//         }
 
-			//var veggieBurger = resturant.OrderBurger("veggie");
-			//if (veggieBurger != null)
-			//{
-			//	Console.WriteLine("I got the veggie burger");
-			//}
+			// var veggieBurger = resturant.OrderBurger("veggie");
+			// if (veggieBurger != null)
+			// {
+			// 	Console.WriteLine("I got the veggie burger");
+			// }
 			#endregion
 
 			#region Factory Method
-			FactoryMethodAndAbstractFactory.BeefBurgerRestaurant beefBurgerRestaurant = new();
-			var beefBurger = beefBurgerRestaurant.OrderBurger();
-			// Abstract
-			var beefChips = beefBurgerRestaurant.OrderShips();
-			if (beefBurger is BeefBurger && beefChips is BeefShips)
-			{
-				Console.ForegroundColor = ConsoleColor.Green;
-				Console.WriteLine("I got the beef burger with Chips");
-				Console.ResetColor();
-			}
+			// FactoryMethodAndAbstractFactory.BeefBurgerRestaurant beefBurgerRestaurant = new();
+			// var beefBurger = beefBurgerRestaurant.OrderBurger();
+			// // Abstract
+			// var beefChips = beefBurgerRestaurant.OrderShips();
+			// if (beefBurger is BeefBurger && beefChips is BeefShips)
+			// {
+			// 	Console.ForegroundColor = ConsoleColor.Green;
+			// 	Console.WriteLine("I got the beef burger with Chips");
+			// 	Console.ResetColor();
+			// }
 
-			FactoryMethodAndAbstractFactory.VeggieBurgerRestaurant veggieBurgerRestaurant = new();
-			var veggieBurger = veggieBurgerRestaurant.OrderBurger();
-			var veggieChips = veggieBurgerRestaurant.OrderShips();
-			if (veggieBurger is VeggieBurger && veggieChips is VeggieShips) 
-			{
-				Console.ForegroundColor = ConsoleColor.Green;
-				Console.WriteLine("I got the veggie burger with Chips");
-				Console.ResetColor();
-			}
+			// FactoryMethodAndAbstractFactory.VeggieBurgerRestaurant veggieBurgerRestaurant = new();
+			// var veggieBurger = veggieBurgerRestaurant.OrderBurger();
+			// var veggieChips = veggieBurgerRestaurant.OrderShips();
+			// if (veggieBurger is VeggieBurger && veggieChips is VeggieShips) 
+			// {
+			// 	Console.ForegroundColor = ConsoleColor.Green;
+			// 	Console.WriteLine("I got the veggie burger with Chips");
+			// 	Console.ResetColor();
+			// }
 			#endregion
 		}
 	}
@@ -89,7 +89,7 @@
 				//{
 				//	burger = new BeefBurger();
 				//}
-				//// prepare it
+				////prepare it
 				//if (burger != null)
 				//	burger.Prepare();
 				//return burger;
@@ -107,7 +107,7 @@
 
 				return burger;
 				#endregion
-			
+
 
 			}
 		}

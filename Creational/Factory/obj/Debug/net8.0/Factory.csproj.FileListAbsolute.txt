@@ -12,3 +12,18 @@ F:\Software\Design Patterns\Creational\Factory\obj\Debug\net8.0\refint\Factory.d
 F:\Software\Design Patterns\Creational\Factory\obj\Debug\net8.0\Factory.pdb
 F:\Software\Design Patterns\Creational\Factory\obj\Debug\net8.0\Factory.genruntimeconfig.cache
 F:\Software\Design Patterns\Creational\Factory\obj\Debug\net8.0\ref\Factory.dll
+F:\Software\DesignPatterns\Creational\Factory\bin\Debug\net8.0\Factory.exe
+F:\Software\DesignPatterns\Creational\Factory\bin\Debug\net8.0\Factory.deps.json
+F:\Software\DesignPatterns\Creational\Factory\bin\Debug\net8.0\Factory.runtimeconfig.json
+F:\Software\DesignPatterns\Creational\Factory\bin\Debug\net8.0\Factory.dll
+F:\Software\DesignPatterns\Creational\Factory\bin\Debug\net8.0\Factory.pdb
+F:\Software\DesignPatterns\Creational\Factory\obj\Debug\net8.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software\DesignPatterns\Creational\Factory\obj\Debug\net8.0\Factory.AssemblyInfoInputs.cache
+F:\Software\DesignPatterns\Creational\Factory\obj\Debug\net8.0\Factory.AssemblyInfo.cs
+F:\Software\DesignPatterns\Creational\Factory\obj\Debug\net8.0\Factory.csproj.CoreCompileInputs.cache
+F:\Software\DesignPatterns\Creational\Factory\obj\Debug\net8.0\Factory.sourcelink.json
+F:\Software\DesignPatterns\Creational\Factory\obj\Debug\net8.0\Factory.dll
+F:\Software\DesignPatterns\Creational\Factory\obj\Debug\net8.0\refint\Factory.dll
+F:\Software\DesignPatterns\Creational\Factory\obj\Debug\net8.0\Factory.pdb
+F:\Software\DesignPatterns\Creational\Factory\obj\Debug\net8.0\Factory.genruntimeconfig.cache
+F:\Software\DesignPatterns\Creational\Factory\obj\Debug\net8.0\ref\Factory.dll

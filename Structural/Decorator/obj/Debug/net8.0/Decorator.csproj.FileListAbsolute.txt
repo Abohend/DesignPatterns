@@ -1,0 +1,15 @@
+F:\Software\DesignPatterns\Creational\Decorator\bin\Debug\net8.0\Decorator.exe
+F:\Software\DesignPatterns\Creational\Decorator\bin\Debug\net8.0\Decorator.deps.json
+F:\Software\DesignPatterns\Creational\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.json
+F:\Software\DesignPatterns\Creational\Decorator\bin\Debug\net8.0\Decorator.dll
+F:\Software\DesignPatterns\Creational\Decorator\bin\Debug\net8.0\Decorator.pdb
+F:\Software\DesignPatterns\Creational\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software\DesignPatterns\Creational\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+F:\Software\DesignPatterns\Creational\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+F:\Software\DesignPatterns\Creational\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+F:\Software\DesignPatterns\Creational\Decorator\obj\Debug\net8.0\Decorator.sourcelink.json
+F:\Software\DesignPatterns\Creational\Decorator\obj\Debug\net8.0\Decorator.dll
+F:\Software\DesignPatterns\Creational\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+F:\Software\DesignPatterns\Creational\Decorator\obj\Debug\net8.0\Decorator.pdb
+F:\Software\DesignPatterns\Creational\Decorator\obj\Debug\net8.0\Decorator.genruntimeconfig.cache
+F:\Software\DesignPatterns\Creational\Decorator\obj\Debug\net8.0\ref\Decorator.dll

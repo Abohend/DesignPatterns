@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y6sBQSa8AHqaZRA12BvHZsp7vq0C0hFmzGlUJKRkFMvmm5TgAYFkxzGTDeTwQmAspN9Im9m0j5+adrZo7OdEHg==",
+  "dgSpecHash": "vY5ap8RLz8W2NMKwVHlalLzPkLx6N0THD9jzpYvoynz2QSj0yuwh6iDIGewoJ9W+4L+GbtVV7XoyYBX8C4nZHg==",
   "success": true,
-  "projectFilePath": "F:\\Software\\Design Patterns\\Creational\\Factory\\Factory.csproj",
+  "projectFilePath": "F:\\Software\\DesignPatterns\\Creational\\Factory\\Factory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
