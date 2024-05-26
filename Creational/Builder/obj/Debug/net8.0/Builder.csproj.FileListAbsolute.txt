@@ -1,9 +1,0 @@
-F:\Software\DesignPatterns\Creational\Builder\bin\Debug\net8.0\Builder.exe
-F:\Software\DesignPatterns\Creational\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
-F:\Software\DesignPatterns\Creational\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
-F:\Software\DesignPatterns\Creational\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
-F:\Software\DesignPatterns\Creational\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
-F:\Software\DesignPatterns\Creational\Builder\obj\Debug\net8.0\Builder.sourcelink.json
-F:\Software\DesignPatterns\Creational\Builder\obj\Debug\net8.0\Builder.dll
-F:\Software\DesignPatterns\Creational\Builder\obj\Debug\net8.0\refint\Builder.dll
-F:\Software\DesignPatterns\Creational\Builder\obj\Debug\net8.0\Builder.pdb

@@ -23,6 +23,7 @@ namespace Decorator
 			var decorator1 = new ConcreateDecoratorA(simple);
 			var decorator2 = new ConcreteDecoratorB(decorator1);
             Console.WriteLine($"\nDecorated Component: \n{decorator2.Operation()}");
+			Console.ReadKey();
         }
 	}
 
@@ -63,7 +64,7 @@ namespace Decorator
 			_wrappee = wrappee;
 		}
 		// The Decorator delegates all work to the wrapped component.
-		public string Operation()
+		public virtual string Operation()
 		{
 			if (this._wrappee != null)
 			{
@@ -85,9 +86,9 @@ namespace Decorator
 	class ConcreateDecoratorA : Decorator
 	{
         public ConcreateDecoratorA(IComponent wrappee): base(wrappee) {}
-		public new string Operation()
+		public override string Operation()
 		{
-			return $"ConcreteDecoratorA({base.Operation()})";
+			return $"ConcreteDecoratorA({_wrappee.Operation()})";
 		}
 	}
 
@@ -97,9 +98,9 @@ namespace Decorator
 		{
 		}
 
-		public new string Operation()
+		public override string Operation()
 		{
-			return $"ConcreteDecoratorB({base.Operation()})";
+			return $"ConcreteDecoratorB({_wrappee.Operation()})";
 		}
 	}
 	
